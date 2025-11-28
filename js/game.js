@@ -1227,7 +1227,7 @@ $.setupStates = function() {
 			ctx: $.ctxmg,
 			x: $.cw / 2,
 			y: $.ch - 172,
-			text: 'CREATED BY JACK RUGILE FOR JS13KGAMES 2013',
+			text: 'CREATED BY BHANU PRAKASH FOR TIMEPASS 2025',
 			hspacing: 1,
 			vspacing: 1,
 			halign: 'center',
