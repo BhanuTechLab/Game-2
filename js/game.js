@@ -1089,9 +1089,9 @@ $.setState = function( state ) {
 			lockedWidth: 299,
 			lockedHeight: 49,
 			scale: 3,
-			title: 'JS13KGAMES',
+			title: 'INSTAGRAM',
 			action: function() {
-				location.href = 'http://js13kgames.com';
+				location.href = 'http://github.com/BhanuTechLab';
 				$.mouse.down = 0;
 			}
 		} );
